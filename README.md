@@ -1,4 +1,5 @@
-##Take a look my first project with React: 
+##Take a look at my first project using React: 
 To Do List https://to-do-react-coral-delta.vercel.app/
 
-![Alt text](image.png)
+![firstpage](/src/assets/image.png)
+![editlist](/src/assets/mainlist.png)
